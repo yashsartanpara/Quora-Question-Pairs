@@ -1,0 +1,8 @@
+*.pkl
+*.mdl
+*.bin
+*.h5
+train.csv
+old.csv
+trainnew.csv
+.idea
