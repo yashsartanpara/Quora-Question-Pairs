@@ -9,3 +9,4 @@ Current accuracy of this model is ~67%
 
 You can use spacy's pretrained model for word dictionary. Which is trained using wikipedia data. It can increase the accuracy.
 
+Note: create a 'data' folder in cloned directory.
